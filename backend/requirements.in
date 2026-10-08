@@ -1,0 +1,7 @@
+Django==5.2.17
+djangorestframework==3.18.1
+psycopg[binary]==3.3.6
+google-auth==2.61.0
+google-auth-oauthlib==1.5.0
+requests==2.34.2
+cryptography==50.0.2

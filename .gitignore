@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+*.tsbuildinfo
+*.log
+.DS_Store
+Thumbs.db
+private-media/
+
