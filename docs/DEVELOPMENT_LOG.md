@@ -138,3 +138,6 @@ Focused38 passed6.560s; full123 passed31.292s, no failures in this package. Migr
 
 Git publication requested to danial-001/DocInsight on dev. Initialized local repository, configured repository-local username/noreply email, excluded .env and reviewed staged files/common credential patterns. Push awaits SSH identity resolution: current account danialwajahat-lab differs from requested danial-001. No application changes or tests rerun for Git setup.
 
+
+SSH identity resolved: existing github-personal alias/key successfully authenticated as danial-001, repository readable with no advertised refs. Select existing key only for this repository; original push authorization remains. Initial project commit09c5e1d; next push dev without force and verify remote HEAD.
+
